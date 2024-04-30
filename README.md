@@ -1,4 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+#### DEVELOPED BY: MOHAMED FAREED F
+#### REG NO: 212222230082
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
